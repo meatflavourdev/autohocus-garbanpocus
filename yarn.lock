@@ -2336,9 +2336,9 @@
   integrity sha512-889DpU/iE70da/b4Vbl8SXxeqG0XFO6o2Lpsyo/A4LDXy/SwpHQMUJI2snIeDoyqq/W1ZCtr+QDAVUyiCU3Wwg==
 
 "@tiptap/extension-task-item@^2.0.0-alpha.12":
-  version "2.0.0-beta.14"
-  resolved "https://registry.yarnpkg.com/@tiptap/extension-task-item/-/extension-task-item-2.0.0-beta.14.tgz#83a55591969b12861c6696d60509f6a647a1b466"
-  integrity sha512-G+msZfXniPPzQtYp02O27poSJcl1LAsd9gTlDYYc7Mfohso9cFdk5I/5t9m0HA5+MNMH+5z/alCu57ny6TOrBw==
+  version "2.0.0-beta.18"
+  resolved "https://registry.yarnpkg.com/@tiptap/extension-task-item/-/extension-task-item-2.0.0-beta.18.tgz#f109c15c997038d8099b64dba4cfc4e219b426e4"
+  integrity sha512-SmXWdfpDFIBGxWH4Xhb9d6jRSK7jJqsw0GqC5KAtIQ9gNvAQS1j5FqAtWfxlb8FkunIfV6MNnxDP2ZgbKvaEug==
   dependencies:
     prosemirror-inputrules "^1.1.3"
 
