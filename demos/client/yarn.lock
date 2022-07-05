@@ -288,6 +288,7 @@
   version "2.0.0-beta.23"
   resolved "https://registry.yarnpkg.com/@tiptap/extension-bubble-menu/-/extension-bubble-menu-2.0.0-beta.23.tgz#6913153a5bd7ead3ac73acca72eadc9e3c7cb699"
   integrity sha512-A6HuzyxyqtdReqIX/apUqtdpCs46B+7XqTSLpJp66LvSRTNC/EBUZPfsgW10rC0y5OJjPK4D3ZOnhvqJqlJS8Q==
+
   dependencies:
     prosemirror-state "^1.3.4"
     prosemirror-view "^1.18.7"
@@ -332,10 +333,12 @@
     "@types/prosemirror-dropcursor" "^1.0.1"
     prosemirror-dropcursor "^1.3.3"
 
+
 "@tiptap/extension-floating-menu@^2.0.0-beta.17":
   version "2.0.0-beta.17"
   resolved "https://registry.yarnpkg.com/@tiptap/extension-floating-menu/-/extension-floating-menu-2.0.0-beta.17.tgz#42e2e816a5a0c5f1c43d2676b8e27d3b66b91c0f"
   integrity sha512-oT05SLu9IYftkzxpaqI6hV+AzQ1bJ/go4vtZZUdtqgz5EPxo2/MYgocjR4v1wwbizBvQHQ3pP/aDMLatf8zRew==
+
   dependencies:
     prosemirror-state "^1.3.4"
     prosemirror-view "^1.18.7"
@@ -437,6 +440,7 @@
   dependencies:
     "@tiptap/extension-bubble-menu" "^2.0.0-beta.23"
     "@tiptap/extension-floating-menu" "^2.0.0-beta.17"
+
     prosemirror-view "^1.18.7"
 
 "@types/orderedmap@*":
@@ -2170,15 +2174,16 @@ vue@^2.6.12:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==
 
+
 w3c-keyname@^2.2.0:
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/w3c-keyname/-/w3c-keyname-2.2.4.tgz#4ade6916f6290224cdbd1db8ac49eab03d0eef6b"
   integrity sha512-tOhfEwEzFLJzf6d1ZPkYfGj+FWhIpBux9ppoP3rlclw3Z0BZv3N7b7030Z1kYth+6rDuAsXUFr+d0VE6Ed1ikw==
 
 ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
