@@ -97,7 +97,7 @@ jobs:
       run: yarn test
 
     - name: Send Slack notifications
-      uses: act10ns/slack@v1
+      uses: act10ns/slack@v2
       if: failure()
       with:
         status: ${{ job.status }}
