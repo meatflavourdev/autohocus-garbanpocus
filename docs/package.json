@@ -27,7 +27,7 @@
     "portal-vue": "^2.1.7",
     "raw-loader": "^4.0.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react-dom": "^18.2.0",
     "remark-container": "^0.1.2",
     "remark-toc": "^7.1.0",
     "remixicon": "^2.5.0",
