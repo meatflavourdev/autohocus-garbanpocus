@@ -10222,10 +10222,10 @@ levn@^0.4.1:
     prelude-ls "^1.2.1"
     type-check "~0.4.0"
 
-lib0@^0.2.13, lib0@^0.2.31, lib0@^0.2.34, lib0@^0.2.35, lib0@^0.2.38, lib0@^0.2.41:
-  version "0.2.41"
-  resolved "https://registry.yarnpkg.com/lib0/-/lib0-0.2.41.tgz#57e6e9ffa2eb7c621c891946d150af50fac035bc"
-  integrity sha512-lZ0I6N81tIDgoPIlUTRhb6mNjPsG5BXIbaK/UbtjakcYnfR+O64bKtIrLXDDnfd7nAo4vpGeZ0mPzbTsNTREcg==
+lib0@^0.2.13, lib0@^0.2.31, lib0@^0.2.34, lib0@^0.2.35, lib0@^0.2.38, lib0@^0.2.41, lib0@^0.2.42:
+  version "0.2.58"
+  resolved "https://registry.yarnpkg.com/lib0/-/lib0-0.2.58.tgz#bb5326a1e028f72fd3a5bdb20e61404bff08d0a5"
+  integrity sha512-6ovqPaYfOKU7GkkVxz/wjMR0zsqmNsISLvH+h9Lx5YNtWDZey69aYsTGXaSVpUPpJ+ZFtIvcZHsTGL3MbwOM8A==
   dependencies:
     isomorphic.js "^0.2.4"
 
@@ -16836,12 +16836,12 @@ y-prosemirror@^1.0.7, y-prosemirror@^1.0.9:
   dependencies:
     lib0 "^0.2.34"
 
-y-protocols@^1.0.3:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/y-protocols/-/y-protocols-1.0.4.tgz#810978c6172474be87457c3bcd669e529c5ba3a1"
-  integrity sha512-5/Hd6DJ5Y2SlbqLIKq86BictdOS0iAcWJZCVop8MKqx0XWwA+BbMn4538n4Z0CGjFMUGnG1kGzagk3BKGz5SvQ==
+y-protocols@^1.0.4:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/y-protocols/-/y-protocols-1.0.5.tgz#91d574250060b29fcac8f8eb5e276fbad594245e"
+  integrity sha512-Wil92b7cGk712lRHDqS4T90IczF6RkcvCwAD0A2OPg+adKmOe+nOiT/N2hvpQIWS3zfjmtL4CPaH5sIW1Hkm/A==
   dependencies:
-    lib0 "^0.2.35"
+    lib0 "^0.2.42"
 
 y-redis@^1.0.2:
   version "1.0.2"
@@ -16852,13 +16852,13 @@ y-redis@^1.0.2:
     lib0 "^0.2.13"
 
 y-websocket@^1.3.11:
-  version "1.3.11"
-  resolved "https://registry.yarnpkg.com/y-websocket/-/y-websocket-1.3.11.tgz#b6e1357a2f63fe8d74ab8999991f85af88ed4221"
-  integrity sha512-Cvf85SE1mwFxrMRCokr4Rj16febCtfJziQWGn/F74h2W37SGPPpPNQjYZR9PFG7ryMAskoMF3ge7ZR1IEnL5CQ==
+  version "1.3.12"
+  resolved "https://registry.yarnpkg.com/y-websocket/-/y-websocket-1.3.12.tgz#eb7c58dfcbaebe70f603c9678c48f9b15e34d723"
+  integrity sha512-ZPFZ41aUG8WL87g8tIrSuB0NtWJhOsud/epRERd3h0T80cywTEP9gtJuHexJpZIZGI1LvN9F+bkowro/oAbfkg==
   dependencies:
     lib0 "^0.2.35"
     lodash.debounce "^4.0.8"
-    y-protocols "^1.0.3"
+    y-protocols "^1.0.4"
   optionalDependencies:
     ws "^6.2.1"
     y-leveldb "^0.1.0"
