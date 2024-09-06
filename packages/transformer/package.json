@@ -22,8 +22,8 @@
     "dist"
   ],
   "dependencies": {
-    "@tiptap/core": "^2.0.0-beta.6",
-    "prosemirror-model": "^1.13.3",
+    "@tiptap/core": "^2.0.0",
+    "prosemirror-model": "^1.22.1",
     "y-prosemirror": "^1.0.7",
     "yjs": "^13.5.3"
   },
