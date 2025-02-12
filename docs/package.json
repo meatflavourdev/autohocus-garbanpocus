@@ -21,7 +21,7 @@
     "@tiptap/vue-starter-kit": "^2.0.0-alpha.15",
     "axios": "^0.21.1",
     "collect.js": "^4.28.6",
-    "globby": "^11.0.2",
+    "globby": "^14.1.0",
     "gridsome": "0.7.23",
     "iframe-resizer": "^4.3.1",
     "portal-vue": "^2.1.7",
