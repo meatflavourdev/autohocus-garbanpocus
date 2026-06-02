@@ -49,7 +49,7 @@ jobs:
 
     - name: Commit fixed linting errors
       id: commit
-      uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: "ci: fix code style linting errors"
 
